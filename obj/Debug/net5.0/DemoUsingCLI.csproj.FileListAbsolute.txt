@@ -1,0 +1,16 @@
+C:\Users\Anamika\DemoUsingCLI\bin\Debug\net5.0\DemoUsingCLI.exe
+C:\Users\Anamika\DemoUsingCLI\bin\Debug\net5.0\DemoUsingCLI.deps.json
+C:\Users\Anamika\DemoUsingCLI\bin\Debug\net5.0\DemoUsingCLI.runtimeconfig.json
+C:\Users\Anamika\DemoUsingCLI\bin\Debug\net5.0\DemoUsingCLI.runtimeconfig.dev.json
+C:\Users\Anamika\DemoUsingCLI\bin\Debug\net5.0\DemoUsingCLI.dll
+C:\Users\Anamika\DemoUsingCLI\bin\Debug\net5.0\ref\DemoUsingCLI.dll
+C:\Users\Anamika\DemoUsingCLI\bin\Debug\net5.0\DemoUsingCLI.pdb
+C:\Users\Anamika\DemoUsingCLI\obj\Debug\net5.0\DemoUsingCLI.csproj.AssemblyReference.cache
+C:\Users\Anamika\DemoUsingCLI\obj\Debug\net5.0\DemoUsingCLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anamika\DemoUsingCLI\obj\Debug\net5.0\DemoUsingCLI.AssemblyInfoInputs.cache
+C:\Users\Anamika\DemoUsingCLI\obj\Debug\net5.0\DemoUsingCLI.AssemblyInfo.cs
+C:\Users\Anamika\DemoUsingCLI\obj\Debug\net5.0\DemoUsingCLI.csproj.CoreCompileInputs.cache
+C:\Users\Anamika\DemoUsingCLI\obj\Debug\net5.0\DemoUsingCLI.dll
+C:\Users\Anamika\DemoUsingCLI\obj\Debug\net5.0\ref\DemoUsingCLI.dll
+C:\Users\Anamika\DemoUsingCLI\obj\Debug\net5.0\DemoUsingCLI.pdb
+C:\Users\Anamika\DemoUsingCLI\obj\Debug\net5.0\DemoUsingCLI.genruntimeconfig.cache
